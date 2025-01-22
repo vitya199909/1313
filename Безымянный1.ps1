@@ -1,1 +1,0 @@
-﻿$a = 11$b, $c = 20, 33$d$a = $a + $b + $cWrite-Host "a= $a`nb= $b`nd= $d" -BackgroundColor Yellow -ForegroundColor DarkRedGet-Variable
